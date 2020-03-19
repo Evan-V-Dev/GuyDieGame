@@ -1,0 +1,28 @@
+If you are here because of the README.txt file, thank you for reading it I really appreciate that!
+
+This is a document of all of the features we need to add.
+
+=============================
+
+Critical:
+
+-bank.html - script for bank. should be able to rob.
+-store.html - script for store. get stuff and store the fact that you have it in a variable.
+-job.html - script for job. get a job and get money. Money used to pay for store
+
+=============================
+
+Later:
+
+-house
+-family
+
+=============================
+
+Info for GuyDie scripting:
+
+-Please use <pde> instead of <p> - It makes it easier to make ascii images by allowing alot of spaces.
+-Look through my existing scripts to see how I make the scripts.
+-Use editmes - edit from there then save to the HTML.
+
+=============================
